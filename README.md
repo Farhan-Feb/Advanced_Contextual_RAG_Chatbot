@@ -2,9 +2,6 @@
 
 > Enterprise-grade Retrieval-Augmented Generation system with CrewAI 4-agent pipeline, Arize Phoenix monitoring, and RAGAs evaluation for Abu Dhabi government procurement standards, HR policies, and security guidelines.
 
-## 🎥 Demo Video
-
-**Please watch the demo video located in:** `Demo-C-RAG-Video/`
 
 ## 🌟 Key Features
 
